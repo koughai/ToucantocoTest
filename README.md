@@ -18,3 +18,4 @@ generate the Docker container. The container is published in dockerhub at `sprin
 
 add new dev note
 add feature note
+add bug note
