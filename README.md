@@ -16,4 +16,5 @@ main method, or use "mvn spring-boot:run or gradle bootRun or ./gradlew bootRun"
 There is a Maven goal (using a [plugin](https://github.com/spring-cloud-samples/eureka/blob/feature/docker/pom.xml#L48)) to 
 generate the Docker container. The container is published in dockerhub at `springcloud/eureka`.
 
-add new note
+add new dev note
+add feature note
